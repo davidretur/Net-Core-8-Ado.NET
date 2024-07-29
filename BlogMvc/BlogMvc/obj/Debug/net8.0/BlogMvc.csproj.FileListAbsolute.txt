@@ -1,0 +1,7 @@
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.AssemblyInfoInputs.cache
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.AssemblyInfo.cs
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.csproj.CoreCompileInputs.cache
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.RazorAssemblyInfo.cache
+C:\Dav Pru\mi repo\Net-Core-8-Ado.NET\BlogMvc\BlogMvc\obj\Debug\net8.0\BlogMvc.RazorAssemblyInfo.cs
